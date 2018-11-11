@@ -8,11 +8,13 @@
 #ice-rink {
     background-color: lightskyblue;
     height: 50vh;
+    position: relative;
 }
 
 /* styling for the user-controlled player, this is placeholder for now */
 #player {
-    width: 2vh;
-    height: 2vh;
+    width: 4vh;
+    height: 4vh;
     background-color: orange;
+    position: absolute;
 }
