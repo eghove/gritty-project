@@ -1,3 +1,9 @@
+/* styling the main-title/jumbotron */
+#main-title {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
 /* styling for the ice-rink background I have yet to find */
 #ice-rink {
     background-color: lightskyblue;
